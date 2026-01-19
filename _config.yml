@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : leejinhyung0908-hash
-  avatar : /assets/images/avatar.png
+  avatar : /assets/images/bio-photo.jpg
   bio    : FastAPI · LLM · ESG · MSA
   links:
     - label: "Website"
